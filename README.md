@@ -1,4 +1,5 @@
 # Calculadora científica con Android Studio
+En parejas, por: Gabriela Cola y Eddy Hipo
 ### Deber 1 Android Studio con java
 ## Demo:
 ![Demo](https://github.com/GabiCC08/calculadoraApp/blob/main/demo.gif)
